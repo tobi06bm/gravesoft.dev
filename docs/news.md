@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [06-Jul-26] YTMusicUltimate is added
+https://gravesoft.dev/ytmusicultimate
+
 ### [19-Sep-24] Added Office 2024 Offline installers in all languages  
 https://gravesoft.dev/office_c2r_links
 

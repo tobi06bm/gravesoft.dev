@@ -28,6 +28,12 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Other Software',
+      items: ['ytmusicultimate'],
+	  collapsed: false,
+    },
+    {
+      type: 'category',
       label: 'Download Windows / Office',
       items: ['download_windows','office_c2r_links','office_c2r_custom'],
 	  collapsed: false,

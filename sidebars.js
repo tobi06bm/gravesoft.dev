@@ -23,7 +23,13 @@ const sidebars = {
     {
       type: 'category',
       label: 'Our Software',
-      items: ['cas', 'ytmusicultimate'],
+      items: ['cas'],
+	  collapsed: false,
+    },
+    {
+      type: 'category',
+      label: 'Other Software',
+      items: ['ytmusicultimate'],
 	  collapsed: false,
     },
     {
